@@ -11,7 +11,7 @@
 
 ![picture](picture/ru_calc.png )    ![picture](picture/ru_l.png )
 
-#Видео-фрагмент по работе приложения
+# Видео-фрагмент по работе приложения
 
 ![picture](picture/stream.mov)
 
