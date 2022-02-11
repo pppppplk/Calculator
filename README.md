@@ -5,4 +5,5 @@
 
 ## Английский язык
 
+![picture](picture/en_calc.png)
 
